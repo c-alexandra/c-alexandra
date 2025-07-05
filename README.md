@@ -79,7 +79,7 @@ I'm always excited to collaborate on interesting projects and discuss emerging t
 
 </div>
 
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <a href="mailto:embedded@camille-aitken.com">
@@ -97,4 +97,4 @@ I'm always excited to collaborate on interesting projects and discuss emerging t
       </a>
     </td>
   </tr>
-</table>
+</table> -->

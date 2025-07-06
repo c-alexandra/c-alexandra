@@ -11,10 +11,12 @@ jobs:
     steps:
         # Snake animation generation
       - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Sutil/snk@master
+        id: snake-gif
         with:
           github_user_name: ${{ github.c-alexandra }}
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake2.svg
+          snake_color: "#ef5f13" # Orange snake
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

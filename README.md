@@ -66,7 +66,7 @@ I'm always excited to collaborate on interesting projects and discuss emerging t
 ---
 
 <div align="center">
-  <img src="https://github.com/c-alexandra/c-alexandra/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/c-alexandra/c-alexandra/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
 </div>
 
 ---

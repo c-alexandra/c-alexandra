@@ -4,17 +4,21 @@ on:
   schedule: # Run automatically every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
         # Snake animation generation
       - name: Generate snake.svg
         uses: Sutil/snk@master
         id: snake-gif
         with:
-          github_user_name: ${{ github.c-alexandra }}
+          github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: "#ef5f13" # Orange snake
       - name: Push to output branch
@@ -24,3 +28,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          

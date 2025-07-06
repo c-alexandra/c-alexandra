@@ -9,12 +9,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+        # Snake animation generation
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.c-alexandra }}
           outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          snake_color: '#b22e2e'
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

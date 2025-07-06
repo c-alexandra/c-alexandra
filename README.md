@@ -1,6 +1,6 @@
 ## Hi there, I'm Camille! 👋
 
-I'm a recent Computer Engineering graduate specializing in **embedded systems** and **hardware-software integration**. I love building projects that bridge the digital and physical worlds, from sensor networks, autonomous robots, and wearable technologies. I'm currently focused on working with new peripherals, creating scalable and professional embedded solutions, and contributing to open-source embedded projects.
+I'm a recent **Computer Engineering** graduate specializing in **embedded systems** and **hardware-software integration**. I love building projects that bridge the digital and physical worlds, from sensor networks, autonomous robots, and wearable technologies. I'm currently focused on working with new peripherals, creating scalable and professional embedded solutions, and contributing to open-source embedded projects.
 
 ### 🎯 What I Do
 - 🔧 **Embedded Systems Development** - Firmware, microcontrollers, **real-time** systems

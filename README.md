@@ -2,12 +2,12 @@
 
 I'm a recent **Computer Engineering** graduate specializing in **embedded systems** and **hardware-software integration**. I love building projects that bridge the digital and physical worlds, from sensor networks, autonomous robots, and wearable technologies. I'm currently focused on working with new peripherals, creating scalable and professional embedded solutions, and contributing to open-source embedded projects.
 
-### 🎯 What I Do
-- 🔧 **Embedded Systems Development** - Firmware, microcontrollers, **real-time** systems
-- 🌐 **IoT Solutions** - Connected devices and sensor networks  
-- 📊 **Data Acquisition** - Hardware interfacing and sensor integration
-- 🛠️ **Hardware Design** - PCB design and system integration
-- 📈 **Performance Optimization** - Low-level optimization and efficiency improvements
+### 🛠️ What I Do
+- **Embedded Systems Development** - Firmware, microcontrollers, **real-time** systems
+- **IoT Solutions** - Connected devices and sensor networks  
+- **Data Acquisition** - Hardware interfacing and sensor integration
+- **Hardware Design** - PCB design and system integration
+- **Performance Optimization** - Low-level optimization and efficiency improvements
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -43,11 +43,11 @@ I'm a recent **Computer Engineering** graduate specializing in **embedded system
 
 I'm always excited to collaborate on interesting projects and discuss emerging technologies in embedded systems and IoT. Whether you're working on:
 
-- 🔧 **Embedded Systems Projects**
-- 🌐 **IoT Solutions**  
-- 🤖 **Robotics Applications**
-- 📊 **Data Acquisition Systems**
-- 🔬 **Research Collaborations**
+- **Embedded Systems Projects**
+- **IoT Solutions**  
+- **Robotics Applications**
+- **Data Acquisition Systems**
+- **Research Collaborations**
 
 **Feel free to reach out:**
 
@@ -75,7 +75,7 @@ I'm always excited to collaborate on interesting projects and discuss emerging t
   
 **"Where lies the strangling fruit that came from the hand of the sinner"** - Jeff Vandermeer
 
-*Thanks for visiting! ⭐*
+*⭐ Thanks for visiting! ⭐*
 
 </div>
 
